@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=changkhobanhoa&color=brightgreen&style=flat-square)
 
 ## 🎮 Check out some stuff about me
-- 🔭 I’m currently working on [@templatecookie](https://github.com/template) and [@echotemplate](https://github.com/echotemplate).
+- 🔭 I’m currently working on [@VKU](http://vku.udn.vn/) .
 - 🌱 I’m currently learning about Software Engineer 
 - ⚡ Fun fact: My perfect day would start with excersize and end with positive affirmation.
 
