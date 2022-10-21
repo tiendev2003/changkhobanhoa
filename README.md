@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=changkhobanhoa&color=brightgreen&style=flat-square)
 
 ## 🎮 Check out some stuff about me
-- 🔭 I’m currently working on [@VKU](http://vku.udn.vn/) .
+- 🔭 I’m currently working on [VKU University](http://vku.udn.vn/) .
 - 🌱 I’m currently learning about Software Engineer 
 - ⚡ Fun fact: My perfect day would start with excersize and end with positive affirmation.
 
