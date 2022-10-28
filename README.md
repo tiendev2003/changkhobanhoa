@@ -3,8 +3,8 @@
 > I am a Full-stack Web Developer. I love workign with Laravel, Java & Nodejs, apart from this I work with JavaScript, Next.js, Laravel,HTML5, BootStrap, CSS3, REST API, MySQL Git & Github. You can see what I am currently up to on [TranCongTien.com](https://trancongtien.com).
 
 ![](https://komarev.com/ghpvc/?username=changkhobanhoa&color=brightgreen&style=flat-square)
-[![GPA](https://ibb.co/t8yrtqj)]
 
+![z3837163158013_07b7272acb4488ed8fc1d6fcb32409f9](https://user-images.githubusercontent.com/106042530/198642486-23722bcf-668e-4fc6-a1ea-76bed26dd939.jpg)
 
 ## 🎮 Check out some stuff about me
 - 🔭 I’m currently working on [VKU University](http://vku.udn.vn/) .
