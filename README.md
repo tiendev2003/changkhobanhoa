@@ -4,8 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=changkhobanhoa&color=brightgreen&style=flat-square)
 
-![GPA](https://user-images.githubusercontent.com/106042530/198642486-23722bcf-668e-4fc6-a1ea-76bed26dd939.jpg)
-
+ 
 ## 🎮 Check out some stuff about me
 - 🔭 I’m currently working on [VKU University](http://vku.udn.vn/) .
 - 🌱 I’m currently learning about Software Engineer 
