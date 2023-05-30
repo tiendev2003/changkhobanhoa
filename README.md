@@ -1,6 +1,6 @@
 ## Hi there 👋  I am Tien! Nice to meet you!
 
-> I am a Full-stack Web Developer. I love workign with Laravel, Java & Nodejs, apart from this I work with Laravel,HTML5, BootStrap, CSS3, REST API, MySQL Git & Github. You can see what I am currently up to on [TranCongTien.com](https://trancongtien.com).
+> I am a Full-stack Web Developer. I love working with Laravel, Java & Nodejs, apart from this I work with Laravel,HTML5, BootStrap, CSS3, REST API, MySQL Git & Github. You can see what I am currently up to on [TranCongTien.com](https://trancongtien.com).
 
 ![See](https://komarev.com/ghpvc/?username=changkhobanhoa&color=brightgreen&style=flat-square)
 
